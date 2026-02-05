@@ -11,10 +11,10 @@ para uso com Windows 11 e outras ISOs.
 
 1. [Ajuste de pendrive sem utilidade](docs/01-ajuste-pendrive-sem-utilidade.md)
 2. [Instalaçao do YUMI no pendrive e multiboot](docs/02-instalacao-do-yumi.md)
-   A documentação oficial pode ser encontrada no site: (https://pendrivelinux-com.translate.goog/yumi-multiboot-usb-creator/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
+A documentação oficial pode ser encontrada no site: (https://pendrivelinux-com.translate.goog/yumi-multiboot-usb-creator/)
 4. [Remoção do YUMI](docs/03-remocao-yumi.md)
 5. [Instalação do Ventoy e criação de mídia de instalação Win11](docs/04-instalacao-ventoy.md)
- A documentação oficial pode ser encontrada no site:
+A documentação oficial pode ser encontrada no site:
 (https://www.ventoy.net/en/download.html)
 (https://www.microsoft.com/pt-br/software-download/windows11)
 
