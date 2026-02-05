@@ -10,7 +10,7 @@ para uso com Windows 11 e outras ISOs.
 ## Conteúdo
 
 1. [Ajuste de pendrive sem utilidade](docs/01-ajuste-pendrive-sem-utilidade.md)
-2. [Instalaçao do YUMI no pendrive e multiboot (docs/02-instalacao-do-yumi.md)]
+2. [Instalaçao do YUMI no pendrive e multiboot](docs/02-instalacao-do-yumi.md)
 3. [Remoção do YUMI](docs/03-remocao-yumi.md)
 4. [Instalação do Ventoy e criação de mídia de instalação Win11](docs/04-instalacao-ventoy.md)
 
